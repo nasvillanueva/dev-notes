@@ -1,1 +1,3 @@
-# dev-notes
+# Developer Notes
+
+* [Redis](notes/redis.md)
