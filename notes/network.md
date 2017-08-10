@@ -11,7 +11,7 @@
 >
 > redirect another network to NOT go via the VPN 
 >
-> `route 10.10.0. 0 255.255.255.0 net_gateway`
+> `route 10.10.0.0 255.255.255.0 net_gateway`
 >
 > redirect a host using a domainname to NOT go via the VPN 
 >
